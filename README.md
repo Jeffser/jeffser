@@ -26,7 +26,6 @@
     <th>🦋 Bluesky</th>
     <th>📢 Floss.Social</th>
     <th>💻 College GitHub</th>
-    <th>🐦 Twitter</th>
   </tr>
   <tr>
     <td><a href="https://gitlab.gnome.org/jeffser">Jeffser</a></td>
@@ -34,7 +33,6 @@
     <td><a href="https://bsky.app/profile/jeffser.com">@jeffser.com</a></td>
     <td><a href="https://floss.social/@jeffser">@jeffser</a></td>
     <td><a href="https://github.com/JeffryFidelitas">JeffryFidelitas</a></td>
-    <td><a href="https://x.com/jeffrysamuer">@jeffrysamuer</a></td>
   </tr>
 </table>
 </div>
