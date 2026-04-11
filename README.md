@@ -22,14 +22,12 @@
 <table>
   <tr>
     <th>👣 Gnome Gitlab</th>
-    <th>📬 Email</th>
     <th>🦋 Bluesky</th>
     <th>📢 Floss.Social</th>
     <th>💻 College GitHub</th>
   </tr>
   <tr>
     <td><a href="https://gitlab.gnome.org/jeffser">Jeffser</a></td>
-    <td>jeffrysamuer@gmail.com</td>
     <td><a href="https://bsky.app/profile/jeffser.com">@jeffser.com</a></td>
     <td><a href="https://floss.social/@jeffser">@jeffser</a></td>
     <td><a href="https://github.com/JeffryFidelitas">JeffryFidelitas</a></td>
