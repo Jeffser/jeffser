@@ -15,8 +15,6 @@
   </tr>
 </table>
 
-[![Jeffser's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeffser&show_icons=true&theme=radical)](https://github.com/jeffser)
-
 ## Professional Accounts
 
 <table>
